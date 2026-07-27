@@ -10,7 +10,7 @@ export const NAV_ITEMS = [
 
 export const USER_DATA = {
   name: "Vivek Bhardwaj",
-  profileImage: "https://i.ibb.co/gZ3WTg3b/personal-image.jpg",
+  profileImage: "https://i.ibb.co/SXw82Snr/djsalkdj.jpg",
   role: "Developer",
   github: "https://github.com/ITACHI-01-cyber",
   linkedin: "https://www.linkedin.com/in/vivek-bhardwaj-468274323/?skipRedirect=true",
